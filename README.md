@@ -4,9 +4,9 @@ In this Project I created a flask based application that fetches data from a pag
 
 **STEPS:
 
-Step1: Clone the Repository - git clone <repository-url>.
+Step1: Clone the Repository -> git clone <repository-url>.
 
-Step2: Create a virtual environment (not necessary but its better to keep different projects in different environments with their dedicated libraries installed)
+Step2: Create a virtual environment -> (not necessary but its better to keep different projects in different environments with their dedicated libraries installed)
 
 Step3: Install Dependencies -> (I have added the depedencies in requirements file so you can install them directly using "pip install -r requirements.txt"
 
